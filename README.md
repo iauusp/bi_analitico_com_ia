@@ -17,7 +17,7 @@ Guia completo para novos utilizadores: pontos de intervenção, configuração d
 
 ## Índice
 
-Use os links abaixo para ir diretamente à secção correspondente.
+Use os links abaixo para ir diretamente à seção correspondente.
 
 - [1. Visão Geral do Sistema](#sec-1)
 - [2. Requisitos e Preparação do Ambiente](#sec-2)
